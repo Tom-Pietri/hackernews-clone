@@ -1,0 +1,15 @@
+nav {
+    width: 85%;
+    margin: 0 auto;
+    background-color: #316c85;
+}
+
+nav a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+nav span {
+    color: #FFFFFF;
+}
+

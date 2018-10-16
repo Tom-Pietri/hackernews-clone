@@ -1,0 +1,24 @@
+a.storylink {
+    color: #000000;
+    text-decoration: none;
+    font-size: 10pt;    
+    margin-right: 4pt;
+}
+
+span.sitebit {
+    color: #828282;
+    font-size: 8pt;
+}
+
+div .subtext {
+    color: #828282;
+    font-size: 7pt;
+}
+
+.subtext > span {
+    margin-right: 2pt;
+}
+
+.storylistitem {
+    padding:  5px 0;
+}
